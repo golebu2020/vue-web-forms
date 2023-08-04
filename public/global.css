@@ -1,0 +1,10 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: rgba(212, 212, 202, 0.526);
+  font-family: "Poppins", Courier, monospace;
+  font-size: 62.5%;
+  font-weight: 400;
+}
